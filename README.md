@@ -1,6 +1,6 @@
 # IMPORTANT
 
-This repository isn't maintained or used by us anymore.
+This repository isn't maintained or used by us anymore. See (loView)[https://github.com/we-loview] for up-to-date repositories.
 
 -----
 
