@@ -1,3 +1,15 @@
+# IMPORTANT
+
+This repository isn't maintained or used by us anymore.
+
+-----
+
+# Description
+
+React frontend that established a websocket connection to rethinkDB and allows basic queries / query subscriptions to be run.
+
+# Run
+
 0. have `rethink-experiments-backend` up and running
 1. `yarn install`
 2. `yarn start`
